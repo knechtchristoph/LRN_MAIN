@@ -1,0 +1,6 @@
+extension for projection;
+
+extend behavior for /LRN/437h_C_TravelItem
+{
+  use action /LRN/checkClass;
+}
